@@ -1,3 +1,4 @@
+RPi   - 
 # USB boot code
 
 This is the USB MSD boot code which should work on the Raspberry Pi model A, Compute Module, Compute
